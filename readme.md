@@ -9,7 +9,7 @@ To get started:
 
 
 bash
-git clone github.com/cosmasken/saas-template.git
+git clone  https://github.com/cosmasken/saas-template.git
 
 cd saas-template
 
